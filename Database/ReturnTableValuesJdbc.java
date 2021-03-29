@@ -10,7 +10,7 @@ public class ReturnTableValuesJdbc {
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static final String USER = "root";
-    static final String PASSWORD = "a9931017A((#!)!&";
+    static final String PASSWORD = "no pass";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         Connection connection = null;
